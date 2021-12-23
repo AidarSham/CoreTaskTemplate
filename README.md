@@ -1,0 +1,2 @@
+# CoreTaskTemplate
+Solution Task
